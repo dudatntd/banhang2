@@ -1,0 +1,6 @@
+{
+  "name": "TDShop - Website Thương Mại Điện Tử",
+  "description": "Website thương mại điện tử TDShop hoàn chỉnh với giao diện mua sắm, giỏ hàng, thanh toán, quản lý tài khoản và trang quản trị Admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
